@@ -1,54 +1,77 @@
-:root {
-  --page-bg-color: #f9fafc;
-  --page-text-color: #32719C;
+.container-fluid{
+
 }
 
-html, body {
-  background-color: var(--page-bg-color);
-  color: var(--page-text-color);
-  box-sizing: border-box;
-  height: 100%;
-  margin: 10px 0 0;
-  font-size: 100%;
+.nav-link{
+
+    color: #1B2936;
 }
 
-.container > * {
-  display: flex;
-  background-color: lightblue;
-  border: 1px solid black;
-  align-items: center;
-  justify-content: center;
-  font-size: 2em;
+.text1{
+    font-size: 600%;
+
+font-family: 'Yesteryear', cursive;
+
+color:#81d4fa;
+
 }
 
-.container {
-  
+
+.text2{
+        font-size: 100%;
+
+    color: #d7bce8;
 }
 
-nav {
-  
+.text3{
+    font-size:300%;
+    color:#adf7b6  ;
+
 }
 
-#banner {
-  
+.text4{
+    font-size:200%;
+    color:#90caf9  ;
+
 }
 
-#about {
-  
+.text5{
+    font-size:150%;
+    color:#90caf9  ;
+
 }
 
-#experience {
-  
+.text6{
+    font-size:100%;
+    color:#90caf9  ;
+
 }
 
-#projects {
-  
+.text7{
+    font-size:300%;
+    color:#adf7b6;
 }
 
-#contact {
-  
+.text8{
+    font-size:300%;
+    color:#adf7b6;
 }
 
-footer {
-  
+.text9{
+    font-size:200%;
+    color:#90caf9  ;
+
 }
+
+.text10{
+    font-size:150%;
+    color:#90caf9  ;
+
+}
+
+.text11{
+    font-size:100%;
+    color:#90caf9  ;
+
+}
+
